@@ -1,0 +1,13 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x86\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x86\cl.exe
+  
+  	Output directory: C:\Users\Dev\Documents\ScrumGram-master\ScrumGram-master\App\build\bin\Win32\Release
+  	Cache directory: C:\Users\Dev\Documents\ScrumGram-master\ScrumGram-master\App\build\obj\il2cppOutputProject\Win32\Release
+  ObjectFiles: 550 of which compiled: 0
+  Total compilation time: 3181 milliseconds.
+  Creating library C:\Users\Dev\Documents\ScrumGram-master\ScrumGram-master\App\build\obj\il2cppOutputProject\Win32\Release\linkresult_B7A9FD9C4202F9C2E50A79BCB22530FA\GameAssembly.lib and object C:\Users\Dev\Documents\ScrumGram-master\ScrumGram-master\App\build\obj\il2cppOutputProject\Win32\Release\linkresult_B7A9FD9C4202F9C2E50A79BCB22530FA\GameAssembly.exp
+  Total link time: 51682 milliseconds.
+  Cleaned up 6 object files.

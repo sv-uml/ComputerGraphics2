@@ -1,0 +1,9 @@
+﻿  Generating code
+  Finished generating code
+     Creating library C:\Users\Dev\Documents\ScrumGram-master\ScrumGram-master\App\build\bin\Win32\Release\ScrumGram.lib and object C:\Users\Dev\Documents\ScrumGram-master\ScrumGram-master\App\build\bin\Win32\Release\ScrumGram.exp
+  Generating code
+  0 of 2594 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  Finished generating code
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  ScrumGram.vcxproj -> C:\Users\Dev\Documents\ScrumGram-master\ScrumGram-master\App\build\bin\Win32\Release\ScrumGram.exe
