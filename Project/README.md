@@ -1,3 +1,5 @@
+# ScrumGram
+
 This project aims to build a scrum board that can be used to organize various tasks based on their completion status. The general workflow is:
 
 1. Use a sticky note to record a new task
